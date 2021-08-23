@@ -1,0 +1,5 @@
+<map id="ast_func_block" name="ast_func_block">
+<area shape="rect" id="node1" title="Function code block." alt="" coords="5,155,124,181"/>
+<area shape="rect" id="node2" href="$classast__block.html" title="Code block node." alt="" coords="23,80,107,107"/>
+<area shape="rect" id="node3" href="$classast__node.html" title="Abstract AST base node." alt="" coords="24,5,105,32"/>
+</map>

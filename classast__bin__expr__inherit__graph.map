@@ -1,0 +1,5 @@
+<map id="ast_bin_expr" name="ast_bin_expr">
+<area shape="rect" id="node1" title="Binary expression node." alt="" coords="5,155,111,181"/>
+<area shape="rect" id="node2" href="$classast__expr.html" title="Expression node." alt="" coords="19,80,97,107"/>
+<area shape="rect" id="node3" href="$classast__node.html" title="Abstract AST base node." alt="" coords="17,5,99,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="src/common/log.hpp" name="src/common/log.hpp">
+<area shape="rect" id="node1" title="Lumiere logger declarations." alt="" coords="362,5,517,32"/>
+<area shape="rect" id="node2" href="$cli_8cpp.html" title="CLI implementation." alt="" coords="5,87,92,114"/>
+<area shape="rect" id="node3" href="$log_8cpp.html" title="Logging definitions." alt="" coords="116,87,208,114"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Entry point to the lumiere compiler." alt="" coords="232,87,337,114"/>
+<area shape="rect" id="node5" href="$ast_8cpp.html" title="Contains the AST definitions." alt="" coords="361,87,517,114"/>
+<area shape="rect" id="node6" href="$cmp__time__extensible_8cpp.html" title="Contains the compile time extensible definitions." alt="" coords="541,80,716,121"/>
+<area shape="rect" id="node7" href="$driver_8cpp.html" title="Contains the lumiere driver definitions." alt="" coords="741,87,914,114"/>
+<area shape="rect" id="node8" href="$llvm__inst_8cpp.html" title="Contains the LLVM instance definitions." alt="" coords="938,80,1077,121"/>
+</map>
